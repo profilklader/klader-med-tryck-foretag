@@ -1,62 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/index.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/index.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/vad-ar-profilklader.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/vad-ar-profilklader.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/fordelar-med-profilklader.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/fordelar-med-profilklader.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/stil-och-passform.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/stil-och-passform.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/skapa-kollektionen.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/skapa-kollektionen.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/hitta-ett-tryckeri.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/hitta-ett-tryckeri.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/maximera-nyttan.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/maximera-nyttan.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/de-perfekta-profilkladerna-for-alla-tillfallen.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/de-perfekta-profilkladerna-for-alla-tillfallen.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://klader-med-tryck-foretag.netlify.app/kontakta-oss.html</loc>
-  <lastmod>2022-11-10T22:51:30+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://profilklader.github.io/klader-med-tryck-foretag/kontakta-oss.html</loc>
+<lastmod>2022-11-15T00:04:23+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
 </urlset>
